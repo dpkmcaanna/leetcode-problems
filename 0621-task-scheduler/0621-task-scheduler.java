@@ -16,6 +16,10 @@ class Solution {
 
         while (!execTak.isEmpty() || !waitingQ.isEmpty()) {
 
+            /*
+             Select task with high frequence from executable task queue and update the CPU time.
+             And add to waiting queue if more CPU is requred complete the this task
+            */
             if (!execTak.isEmpty()) {
                 cpuTime++;
                 int[] taskWithHighFreq = execTak.poll();
@@ -26,10 +30,17 @@ class Solution {
                 }
             }
 
+            /*
+            When a task is executed on CPU, then put in wiating queue for next turn
+            */
             if (!waitingQ.isEmpty() && waitingQ.peek()[1] == cpuTime) {
                 execTak.offer(waitingQ.poll());
             }
 
+            /*
+                Handle when there is no task in the execuatble queue due idle time is high and 
+                there is no task to execute now.
+            */
             if (execTak.isEmpty() && !waitingQ.isEmpty()) {
                 cpuTime += waitingQ.peek()[1] - cpuTime;
                 execTak.offer(waitingQ.poll());
