@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
