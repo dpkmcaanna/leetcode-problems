@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -28,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 ## Greedy
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
