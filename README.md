@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
