@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -42,16 +44,19 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -85,6 +90,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -129,4 +135,12 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
