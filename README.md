@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
@@ -36,11 +37,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 ## Sorting
