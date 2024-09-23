@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0056-merge-intervals) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
@@ -72,11 +74,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -84,6 +88,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
