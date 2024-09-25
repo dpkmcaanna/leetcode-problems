@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -69,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
