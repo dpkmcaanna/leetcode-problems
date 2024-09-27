@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -169,4 +170,20 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
