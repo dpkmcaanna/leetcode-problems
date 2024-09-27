@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
@@ -112,10 +113,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Memoization
 |  |
