@@ -46,14 +46,9 @@ class Solution {
                 CustomNode n = q.poll();
                 if (t.containsKey(n.col)) {
                     columEle = t.get(n.col);
-                    levelEle = columEle.get(level);
-                    if (levelEle != null) {
-                        levelEle.add(n.node.val);
-                    } else {
-                        levelEle = new LinkedList<>();
-                        levelEle.add(n.node.val);
-                        columEle.put(level, levelEle);
-                    }
+                    levelEle = columEle.getOrDefault(level, new LinkedList<>());
+                    levelEle.add(n.node.val);
+                    columEle.put(level, levelEle);
                 } else {
                     columEle = new TreeMap();
                     levelEle = new LinkedList<>();
