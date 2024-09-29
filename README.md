@@ -25,6 +25,7 @@
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | [0070-climbing-stairs](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
