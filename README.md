@@ -45,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
