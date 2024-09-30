@@ -27,6 +27,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -214,8 +215,10 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
