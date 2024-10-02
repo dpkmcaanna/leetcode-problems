@@ -10,9 +10,7 @@ class Solution {
 
         for (int i = 0; i < len; i++) {
             sum += nums[i];
-            if (sumFreq.containsKey(sum - k)) {
-                subArrayCount += sumFreq.get(sum - k);
-            }
+            subArrayCount += sumFreq.getOrDefault(sum - k, 0);
             sumFreq.put(sum, sumFreq.getOrDefault(sum, 0) + 1);
         }
         return subArrayCount;
