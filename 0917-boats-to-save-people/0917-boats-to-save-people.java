@@ -4,8 +4,7 @@ class Solution {
 
         int left = 0,  right = people.length - 1, botCount = 0;
         while(left <= right) {
-            int sum = people[left] + people[right];
-            if(sum <= limit) {
+            if((left != right) && (people[left] + people[right] <= limit)) {
                 left++; 
             } 
             right--;
