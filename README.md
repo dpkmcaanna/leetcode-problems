@@ -31,6 +31,7 @@
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -86,6 +87,7 @@
 | [0134-gas-station](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -132,6 +135,7 @@
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
+| [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
