@@ -37,6 +37,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +140,7 @@
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
