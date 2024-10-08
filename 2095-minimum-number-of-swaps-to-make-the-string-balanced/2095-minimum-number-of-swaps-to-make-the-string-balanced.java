@@ -2,23 +2,23 @@ class Solution {
     public int minSwaps(String s) {
         int len = s.length();
 
-        if(len == 0 || (len % 2) != 0) return 0;
+        if (len == 0 || (len % 2) != 0)
+            return 0;
 
-        Stack<Character> st = new Stack<>();
-        for(int i = 0; i < len; i++) {
+        int open = 0, close = 0;
+        for (int i = 0; i < len; i++) {
             char c = s.charAt(i);
-            if(c == '[') {
-                st.push(c);
+            if (c == '[') {
+                open++;
             } else {
-                if(st.isEmpty() || st.peek() == ']') {
-                    st.push(c);
+                if (open <= 0) {
+                    close++;
                 } else {
-                    st.pop();
+                    open--;
                 }
             }
         }
-        int totalBracket = st.isEmpty() ? 0 : st.size() / 2;
-        
-        return (totalBracket + 1) / 2;
+
+        return (open + 1) / 2;
     }
 }
