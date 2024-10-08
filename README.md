@@ -50,6 +50,7 @@
 | [0347-top-k-frequent-elements](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -60,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -138,6 +140,7 @@
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -161,6 +164,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
