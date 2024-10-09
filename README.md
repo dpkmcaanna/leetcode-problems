@@ -63,6 +63,7 @@
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -93,6 +94,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
