@@ -34,6 +34,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
+| [1002-maximum-width-ramp](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [1293-three-consecutive-odds](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -167,6 +168,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [1002-maximum-width-ramp](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 ## Sliding Window
 |  |
 | ------- |
