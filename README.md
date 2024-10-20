@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -147,6 +149,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0042-trapping-rain-water) |
