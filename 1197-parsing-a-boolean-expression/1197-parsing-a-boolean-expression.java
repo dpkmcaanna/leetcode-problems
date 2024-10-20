@@ -13,17 +13,11 @@ class Solution {
                 st.push(c);
             } else {
                 List<Character> val = new LinkedList<>();
-                char op = '0';
-                while(!st.isEmpty()) {
-                    char sc = st.pop();
-                    if(ops.contains(sc)) {
-                        op = sc;
-                        break;
-                    }
-                    if(sc != '(') {
-                        val.add(sc);
-                    }
+                while(!st.isEmpty() && st.peek() != '(') {
+                   val.add(st.pop());
                 }
+                st.pop();
+                char op = st.pop();
                 if(ops.contains(op)) {
                     if(op == '&') {
                         if(val.contains('f')) {
