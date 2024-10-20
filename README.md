@@ -71,6 +71,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2727-number-of-senior-citizens) |
@@ -169,6 +170,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -202,6 +204,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [1197-parsing-a-boolean-expression](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 ## Memoization
 |  |
 | ------- |
