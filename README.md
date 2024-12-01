@@ -38,6 +38,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1130-last-stone-weight-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1130-last-stone-weight-ii) |
 | [1293-three-consecutive-odds](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1293-three-consecutive-odds) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
@@ -60,6 +61,7 @@
 | [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
@@ -122,6 +124,7 @@
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
@@ -166,6 +169,7 @@
 | [0567-permutation-in-string](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dpkmcaanna/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -274,6 +278,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/dpkmcaanna/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dpkmcaanna/leetcode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Design
 |  |
 | ------- |
